@@ -25,5 +25,5 @@ The player must place puzzle pieces correctly to complete the image, with a time
    ```bash
    git clone git@github.com:serghine-abdelillah/AR-VR-Projects.git
 
-2. Open the Package using Unity Hub\
+2. Open the Package using Unity Hub
 3. Start Enjoying !!
