@@ -1,9 +1,4 @@
 
----
-
-### 🎳 **Bowling VR Game** 
-
-
 # 🎳 Bowling VR Game
 
 A **Virtual Reality Bowling Game** created with Unity and XR Toolkit.  
