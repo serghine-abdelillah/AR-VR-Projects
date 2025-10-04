@@ -23,4 +23,7 @@ The player must place puzzle pieces correctly to complete the image, with a time
 ## 🎮 Installation & Play
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/puzzle-vr-game.git
+   git clone git@github.com:serghine-abdelillah/AR-VR-Projects.git
+
+2. Open the Package using Unity Hub\
+3. Start Enjoying !!
