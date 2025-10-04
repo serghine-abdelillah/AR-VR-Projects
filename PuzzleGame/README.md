@@ -24,4 +24,4 @@ The player must place puzzle pieces correctly to complete the sort the numbers c
    git clone git@github.com:serghine-abdelillah/AR-VR-Projects.git
 
 2. Open the Package using Unity Hub
-3. Start Enjoying !!
+3. Start Playing !!
